@@ -1,0 +1,10 @@
+Python libraries to be installed
+1.pandas
+2.numpy
+3.scikit-learn
+4.seaborn
+5.matplotlib
+
+example:
+Type in command prompt-->(pip install library_name)
+
